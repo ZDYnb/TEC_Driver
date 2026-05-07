@@ -1,4 +1,16 @@
 # TEC Control Driver
+This repository contains the current design progress for the TEC control system and hardware implementation. The control-flow chart and hardware schematic are included in this project. 
+
+### Control Flow Chart
+
+![Control Flow Chart](control_flow_chart.png)
+
+
+### Hardware Schematic
+
+![Hardware Schematic](hardware/Hardware_schematic.png)
+
+The full engineering log that contains discussion of circuit design and analysis is also provided as `engineering_log.pdf` in the repository.
 ## Folder Structure
 
 Contain two folders:
